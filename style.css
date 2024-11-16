@@ -1,0 +1,249 @@
+.sec1{
+   width: Hug (1,278px)px;
+   height: Fixed (102px)px;
+   left: 2px;
+   padding: 0px 28px 0px 28px;
+   gap: 144px;
+}
+
+.ens{
+   display: flex;
+   justify-content: space-between;
+   margin: 5px;
+}
+#logo{
+   height: 82px;
+   width: 173px;
+   margin-bottom: 10px;
+}
+.entete{
+   width: Hug (603px)px;
+   height: Hug (36px)px;
+   gap: 40px;
+}
+ul li{
+   font-size: 20px;
+   display: flex;
+   color: aliceblue;
+   text-align: center;
+   padding-left: 100px;
+   padding-top: 5px;
+}
+li a{
+   list-style-type: none;
+   text-decoration: none;
+   color: black;  
+}
+ul{
+   display: flex;
+   justify-content: space-between;
+}
+#cont{
+   background-color: rgb(44, 21, 21);
+   margin-left:  20px;
+   width: 158px;
+   height: 63px;
+   color: white; 
+}
+.contact{
+   padding: 15px;
+}
+
+.sec2{
+   height: 730px;
+   width: 1209px;
+}
+.parent{
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+}
+.titre {
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+.enfant1{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+
+#copro{
+   background-color: rgb(44, 21, 21);
+   color: white;
+   width: 452px;
+   height: 85px;
+   top: 301px;
+   left: 2px;
+}
+.passion{
+   width: 578.02px;
+   height: 72.6px;
+   top: 6.34px;
+   gap: 0px;
+   opacity: 0px;
+   angle: 0.66 deg;
+}
+#passion{
+   font-family: Poppins;
+   font-size: 24px;
+   font-weight: 275;
+   line-height: 36px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+}
+
+.text{
+   width: 504px;
+   height: 125px;
+   top: 119px;
+   left: 1px;
+   gap: 0px;
+   opacity: 0px;
+} 
+#text{
+   font-family: Poppins;
+   line-height: 36px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+}
+#choco{
+   height: 792px ;
+   width: 675px;
+}
+
+.sec3{
+   background-color:  rgb(44, 21, 21);
+   height: 350px;
+}
+.first{ 
+   color: white;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 80px;
+   font-size: 20px;
+}
+
+footer{
+   height: 647px;
+   width: 1279px;
+   top: 4653px;
+   left: 1px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color:  rgb(44, 21, 21);
+   margin-top: 300px;
+}
+.foot{
+   width: 664px;
+   height: 274.44px;
+   top: 4867px;
+   left: 369px;
+   gap: 0px;
+   opacity: 0px;    
+}
+
+.father{
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+   align-items: center;
+   gap: 30px;
+}
+.son2{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   padding-left: 30px;
+}
+#article{
+   width: 400px;
+   height: 613px;
+}
+.sec4{
+   width: 1101px;
+   height: 650px;
+}
+.group1, .group2{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 40px;
+}
+
+
+.sec6{
+   width: 1280px;
+   height: 923px;
+   top: 3283px;
+   gap: 0px;
+   opacity: 0px;
+   background-color: #DFCECE;
+}
+
+#premier, #dernier{
+   width: 700px;
+   height: 96px;
+   top: 3447px;
+   left: 279px;
+   gap: 0px;
+   border: 1px 0px 0px 0px;
+   opacity: 0px;      
+}
+#dbloc1, #dbloc2{
+   width: 317px;
+   height: 96px;
+   top: 3616px;
+   left: 662px;
+   gap: 0px;
+   border: 1px 0px 0px 0px;
+   opacity: 0px;      
+}
+form{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   gap: 50px;
+}
+.doublebloc{
+   display: flex;
+   justify-content: space-between;
+}
+.secondbloc{
+   width: 518px;
+   height: 96px;
+   top: 3954px;
+   left: 381px;
+   gap: 0px;
+   border: 1px solid #443434;
+   opacity: 0px;
+   background-color:  rgb(44, 21, 21);
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 15px;
+}
+#send{
+   font-family: Poppins;
+   font-size: 40px;
+   font-weight: 600;
+   line-height: 60px;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+   color: white;
+}
+
+.souscontent{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+   gap: 50px;
+   padding: 100px;
+}
